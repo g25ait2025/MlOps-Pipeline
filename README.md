@@ -6,8 +6,8 @@ This repository documents the complete implementation workflow, deployment struc
 
 The workflow combines:
 
-* Transformer architectures hosted on [Hugging Face](https://huggingface.co?utm_source=chatgpt.com)
-* Experiment monitoring through [Weights & Biases (W&B)](https://wandb.ai?utm_source=chatgpt.com)
+* Transformer architectures hosted on [Hugging Face](https://huggingface.co)
+* Experiment monitoring through [Weights & Biases (W&B)](https://wandb.ai)
 
 The integrated setup enables:
 
@@ -52,7 +52,7 @@ Used for:
 * Uploading trained checkpoints
 
 Generate token from:
-[Hugging Face Tokens](https://huggingface.co/settings/tokens?utm_source=chatgpt.com)
+[Hugging Face Tokens](https://huggingface.co/settings/tokens)
 
 ### W&B API Key
 
@@ -63,7 +63,7 @@ Required for:
 * Synchronizing training runs
 
 Generate token from:
-[Weights & Biases Settings](https://wandb.ai/settings?utm_source=chatgpt.com)
+[Weights & Biases Settings](https://wandb.ai/settings)
 
 Store both credentials securely inside:
 
@@ -123,15 +123,15 @@ The final trained model was evaluated against the validation benchmark after com
 
 ## Kaggle Notebook
 
-[Kaggle Execution Notebook](https://www.kaggle.com/code/bhoopendrakumarg25/ml-ops?utm_source=chatgpt.com)
+[Kaggle Execution Notebook](https://www.kaggle.com/code/bhoopendrakumarg25/ml-ops)
 
 ## Hugging Face Model Repository
 
-[DistilBERT Goodreads Genre Classifier](https://huggingface.co/Bhoop-g25ait2025/distilbert-goodreads-genres?utm_source=chatgpt.com)
+[DistilBERT Goodreads Genre Classifier](https://huggingface.co/Bhoop-g25ait2025/distilbert-goodreads-genres)
 
 ## W&B Experiment Dashboard
 
-[Weights & Biases Tracking Dashboard](https://wandb.ai/g25ait2025-prom-iit-rajasthan/huggingface?nw=nwuserg25ait2025&utm_source=chatgpt.com)
+[Weights & Biases Tracking Dashboard](https://wandb.ai/g25ait2025-prom-iit-rajasthan/huggingface?nw=nwuserg25ait2025)
 
 ---
 
