@@ -113,9 +113,9 @@ The final trained model was evaluated against the validation benchmark after com
 
 | Evaluation Metric | Final Score |
 | ----------------- | ----------- |
-| Accuracy          | 56.75%      |
-| F1 Score          | 0.58084     |
-| Validation Loss   | 2.66998     |
+| Accuracy          | 57.31%      |
+| F1 Score          | 0.58360     |
+| Validation Loss   | 2.71064     |
 
 ---
 
